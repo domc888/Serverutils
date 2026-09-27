@@ -1,0 +1,5 @@
+name: ServerUtils
+version: 1.0
+main: serverutils.ServerUtilsPlugin
+api-version: '1.21'
+author: domc888
